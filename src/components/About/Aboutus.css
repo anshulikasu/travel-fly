@@ -1,0 +1,19 @@
+.aboutus_h{
+  display: flex;
+}
+
+.aboutus_lower{
+  display: flex;
+}
+
+.aboutus_lower > img{
+  width: 80%;
+}
+
+.lower_img{
+width: 100%;
+}
+
+.lower_des{
+  width: 100%;
+}

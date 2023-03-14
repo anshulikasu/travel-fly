@@ -1,0 +1,55 @@
+.nav_links{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.navbar_section{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+
+.navbar{
+  
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    
+    padding: 20px;
+    z-index: 999;
+
+}
+
+.nav_icons{
+ 
+}
+
+.icons{
+  justify-content: center;
+  align-items: center;
+ 
+ 
+}
+
+.nav_text{
+  font-size: 1.5rem;
+  text-decoration-line: none;
+  
+}
+
+.nav{
+
+}
+
+.nav_sublinks{
+ text-decoration-line: none;
+  text-align: center;
+  color: white;
+  justify-content: center;  
+
+  align-items: center;
+
+}

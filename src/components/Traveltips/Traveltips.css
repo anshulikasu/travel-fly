@@ -1,0 +1,24 @@
+travel_ds{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+.travel_des{
+  color: white;
+  object-fit: contain;
+  text-align: center;
+  justify-content: center;
+  font-size: 4rem;
+}
+
+.travel_subdes{
+  color: white;
+  object-fit: contain;
+  text-align: center;
+  justify-content: center;
+  font-size: 2rem;
+  
+}

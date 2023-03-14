@@ -1,0 +1,9 @@
+.tcard_tr{
+  display: flex;
+
+}
+
+.card_list{
+  border: 1px;
+  border-radius: 4px;
+}
